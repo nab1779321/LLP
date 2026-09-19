@@ -32,9 +32,11 @@ library(ggplot2)
 library(grid)
 library(survival)
 
+Download "Shiny app for LLP estimation and graphical display.R" from the GitHub.
+
 **In RStudio:**
 
-1. Open `app.R`.
+1. Open `Shiny app for LLP estimation and graphical display.R`.
 2. Click **Run App**.
 3. The application will open in the RStudio Viewer or a web browser.
 
