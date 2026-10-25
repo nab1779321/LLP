@@ -1,6 +1,13 @@
 # Introduction
 This is the github for storing related functions, Shiny APP and codes for methodologies on Living Longer Probability (LLP).
 
+# Datasets used in the article "Living Longer Probability as an Interpretable Survival Estimand for Clinical Trials":
+ No new data were generated in this study. The data analyzed are third-party data that are already publicly available:
+
+- Partial OAK trial in this repository was published by the article: Gandara, D.R., Paul, S.M., Kowanetz, M. et al. Blood-based tumor mutational burden as a predictor of clinical benefit in non-small-cell lung cancer patients treated with atezolizumab. Nat Med 24, 1441–1448 (2018). https://doi.org/10.1038/s41591-018-0134-3.
+- The AML trial can be downloaded in the R package boot.
+- The reconstructed individual patient data of the IPASS trial can be downloaded in the R package AHSurv.
+
 # User Guide for Shiny APP of LLP Estimation and Graphical Display
 This Shiny application performs LLP estimation using Kaplan Meier-based nonparametric and Cox model-based parametric methods with graphical display.
 
